@@ -1,6 +1,6 @@
 # TechTaste
 
-**TechTaste** é um aplicativo de delivery de comida desenvolvido com **Flutter** durante a **Imersão Mobile Alura 2025**. Inspirado no Ifood, o projeto foi criado com fins educacionais e apresenta funcionalidades básicas de um app de delivery, como visualização de restaurantes, pratos disponíveis e uma tela de checkout.
+**TechTaste** é um aplicativo de delivery de comida desenvolvido com **Flutter** durante a **Imersão Mobile Alura 2025 (#imersaomobile)**. Inspirado no Ifood, o projeto foi criado com fins educacionais e apresenta funcionalidades básicas de um app de delivery, como visualização de restaurantes, pratos disponíveis e uma tela de checkout.
 
 ## Sobre o Projeto
 
