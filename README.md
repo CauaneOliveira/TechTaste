@@ -18,7 +18,8 @@ Durante o desenvolvimento do **TechTaste**, foram explorados diversos conceitos,
 
 - Criação e navegação entre telas com Flutter  
 - Componentização de widgets  
-- Gerenciamento de estado básico  
+- Gerenciamento de estado básico
+- Desenvolvimento no Firebase Studio Google
 
 ## Capturas de Tela
 
