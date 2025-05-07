@@ -24,4 +24,6 @@ Durante o desenvolvimento do **TechTaste**, foram explorados diversos conceitos,
 ## Capturas de Tela
 
 **Figma**: https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&t=PHhuKZSPLEeFkN4P-1
-> 
+> https://github.com/user-attachments/assets/968d707b-87de-482b-91e7-73d3a036261f
+
+
